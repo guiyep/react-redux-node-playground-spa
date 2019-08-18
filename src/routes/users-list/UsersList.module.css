@@ -1,0 +1,16 @@
+.UsersList_container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.UsersList_filters {
+  height: 3em;
+  background-color: white;
+  box-shadow: 0 4px 2px -4px grey;
+}
+
+.UsersList_list {
+  height: calc(100vh - 6em);
+  overflow-y: auto;
+}

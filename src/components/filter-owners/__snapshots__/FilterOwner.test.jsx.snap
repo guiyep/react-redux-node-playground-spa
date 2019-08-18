@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterOwners it matches the snapshot 1`] = `
+<input
+  className="ant-input"
+  disabled={false}
+  onChange={[Function]}
+  onKeyDown={[Function]}
+  placeholder="Filter owners..."
+  type="text"
+  value="test"
+/>
+`;
